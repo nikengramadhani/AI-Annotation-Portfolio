@@ -4,6 +4,12 @@
 
 Worked on computer vision datasets involving vehicles, license plates, and car manufacturer logos.
 
+## Sample Illustration
+
+![Automotive Annotation](../images/automotive-example.png)
+
+*Illustration created for portfolio purposes using non-confidential images.*
+
 ## Responsibilities
 
 - Vehicle annotation
