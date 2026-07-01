@@ -4,6 +4,12 @@
 
 Worked on computer vision datasets involving identity documents and hotel key cards. The project focused on accurately identifying and annotating objects while following strict privacy and confidentiality requirements.
 
+## Sample Illustration
+
+![Automotive Annotation](../image/car%20annotation.png)
+
+*Illustrative example only. The original project data cannot be shared due to confidentiality agreements.*
+
 ## Responsibilities
 
 - ID card annotation
