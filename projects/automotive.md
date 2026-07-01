@@ -6,7 +6,7 @@ Worked on computer vision datasets involving vehicles, license plates, and car m
 
 ## Sample Illustration
 
-![Automotive Annotation](../images/automotive-example.png)
+![Automotive Annotation](..image/car annotation.png)
 
 *Illustration created for portfolio purposes using non-confidential images.*
 
