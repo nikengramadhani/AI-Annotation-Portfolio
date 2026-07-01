@@ -6,7 +6,7 @@ Worked on computer vision datasets involving tugboat crew detection and annotati
 
 ## Sample Illustration
 
-![Automotive Annotation](../image/ID%20card%20annotation2.png)
+![Automotive Annotation](../image/people%20counting%20annotation.png)
 
 *Illustrative example only. The original project data cannot be shared due to confidentiality agreements.*
 
