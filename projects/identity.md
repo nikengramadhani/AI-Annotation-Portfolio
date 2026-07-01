@@ -6,7 +6,8 @@ Worked on computer vision datasets involving identity documents and hotel key ca
 
 ## Sample Illustration
 
-![Automotive Annotation](../image/car%20annotation.png)
+![Automotive Annotation](../image/ID%20card%20annotation2.png)
+![Automotive Annotation](../image/ID%20card%20passport%20annotation.png)
 
 *Illustrative example only. The original project data cannot be shared due to confidentiality agreements.*
 
