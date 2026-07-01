@@ -6,7 +6,7 @@ Worked on computer vision datasets involving people detection and counting in va
 
 ## Sample Illustration
 
-![Automotive Annotation](../image/people%20counting%20annotation.png)
+![Automotive Annotation](../image/people%20counting%20annotation2.png)
 
 *Illustrative example only. The original project data cannot be shared due to confidentiality agreements.*
 
