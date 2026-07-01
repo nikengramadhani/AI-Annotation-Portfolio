@@ -4,6 +4,12 @@
 
 Worked on computer vision datasets involving tugboat crew detection and annotation. The project focused on accurately identifying crew members in maritime environments while maintaining high annotation quality and consistency according to client guidelines.
 
+## Sample Illustration
+
+![Automotive Annotation](../image/ID%20card%20annotation2.png)
+
+*Illustrative example only. The original project data cannot be shared due to confidentiality agreements.*
+
 ## Responsibilities
 
 - Crew member annotation
