@@ -6,9 +6,9 @@ Worked on computer vision datasets involving vehicles, license plates, and car m
 
 ## Sample Illustration
 
-([..image/car annotation.png](https://github.com/nikengramadhani/AI-Annotation-Portfolio/blob/main/image/car%20annotation.png))
+![Automotive Annotation](../image/car%20annotation.png)
 
-*Illustration created for portfolio purposes using non-confidential images.*
+*Illustrative example only. The original project data cannot be shared due to confidentiality agreements.*
 
 ## Responsibilities
 
